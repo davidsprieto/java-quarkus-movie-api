@@ -1,8 +1,8 @@
-package org.quarkus.app.model;
+package org.quarkus.app.model.actor;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.ColumnDefault;
-import org.hibernate.annotations.ManyToAny;
+import org.quarkus.app.model.film.Film;
 
 import java.time.Instant;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package repository;
+package org.quarkus.app.model.film;
 
 import com.speedment.jpastreamer.application.JPAStreamer;
 import com.speedment.jpastreamer.projection.Projection;
@@ -6,7 +6,6 @@ import com.speedment.jpastreamer.streamconfiguration.StreamConfiguration;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;
-import org.quarkus.app.model.Film;
 import org.quarkus.app.model.Film$;
 
 import java.math.BigDecimal;

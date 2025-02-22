@@ -1,7 +1,8 @@
-package org.quarkus.app.model;
+package org.quarkus.app.model.film;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.ColumnDefault;
+import org.quarkus.app.model.actor.Actor;
 
 import java.math.BigDecimal;
 import java.time.Instant;

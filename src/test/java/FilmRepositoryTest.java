@@ -1,8 +1,8 @@
 import io.quarkus.test.junit.QuarkusTest;
 import jakarta.inject.Inject;
 import org.junit.jupiter.api.Test;
-import org.quarkus.app.model.Film;
-import repository.FilmRepository;
+import org.quarkus.app.model.film.Film;
+import org.quarkus.app.model.film.FilmRepository;
 import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

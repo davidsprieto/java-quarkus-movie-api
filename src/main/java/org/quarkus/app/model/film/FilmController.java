@@ -1,16 +1,15 @@
-package org.quarkus.app.model;
+package org.quarkus.app.model.film;
 
 import jakarta.inject.Inject;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;
-import repository.FilmRepository;
 
 import java.math.BigDecimal;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
 @Path("/")
-public class FilmResource {
+public class FilmController {
 
     @Inject
     FilmRepository filmRepository;

@@ -5,7 +5,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.containsString;
 
 @QuarkusTest
-public class FilmResourceTest {
+public class FilmControllerTest {
 
     @Test
     public void test1() {
