@@ -1,4 +1,4 @@
-# java-quarkus-rest-api
+# Java Quarkus Movie API
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
@@ -59,4 +59,3 @@ If you want to learn more about building native executables, please consult <htt
 - SmallRye OpenAPI ([guide](https://quarkus.io/guides/openapi-swaggerui)): Document your REST APIs with OpenAPI - comes with Swagger UI
 - Hibernate ORM with Panache ([guide](https://quarkus.io/guides/hibernate-orm-panache)): Simplify your persistence code for Hibernate ORM via the active record or the repository pattern
 - JDBC Driver - MySQL ([guide](https://quarkus.io/guides/datasource)): Connect to the MySQL database via JDBC
-# java-quarkus-movie-api
