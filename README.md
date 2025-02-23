@@ -1,6 +1,6 @@
 <h1 align=center>Movie API</h1>
 
-API developed using:
+API developed with:
 - Java
 - Quarkus
 
