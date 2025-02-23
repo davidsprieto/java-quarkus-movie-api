@@ -1,4 +1,8 @@
-<h1 align=center>Java Quarkus Movie API</h1>
+<h1 align=center>Movie API</h1>
+
+API developed using:
+- Java
+- Quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
